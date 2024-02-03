@@ -38,7 +38,7 @@
          <br>
          <div align="center">
 		         <table>
-		             <tr><td>State Bank of India</td></tr>
+		             <tr><td>State Bank of India1</td></tr>
 			         <tr><td><label>User Name</label></td><td><input name="user" type="text"/></td></tr>
 			         <tr><td><label>Password</label></td><td><input name="pwd" type="password"/></td></tr>
 			         <!-- <tr align="center"><td><input type="submit" value="login"/></td></tr> -->
